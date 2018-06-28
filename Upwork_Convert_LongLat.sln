@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Upwork_Convert_LongLat", "Upwork_Convert_LongLat\Upwork_Convert_LongLat.pyproj", "{BF1083A0-C804-4C6D-B208-0DAD48C5F55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF1083A0-C804-4C6D-B208-0DAD48C5F55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF1083A0-C804-4C6D-B208-0DAD48C5F55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F370A6-90B8-4D4B-8E48-C55647ED6A2A}
+	EndGlobalSection
+EndGlobal
