@@ -41,4 +41,5 @@ for var in range(len(Latitude)):
     else:
         f.write(str(data['results'][0]['formatted_address']) + '\n')
 f.close()
+printf("Done!")
 

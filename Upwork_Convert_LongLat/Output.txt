@@ -3,13 +3,3 @@ New York City Hall, 11 Centre St, New York, NY 10007, USA
 1510 Market St, San Francisco, CA 94102, USA
 Froste Ln, Winters, TX 79567, USA
 ZERO_RESULTS
-New York City Hall, 11 Centre St, New York, NY 10007, USA
-New York City Hall, 11 Centre St, New York, NY 10007, USA
-1510 Market St, San Francisco, CA 94102, USA
-Froste Ln, Winters, TX 79567, USA
-ZERO_RESULTS
-New York City Hall, 11 Centre St, New York, NY 10007, USA
-New York City Hall, 11 Centre St, New York, NY 10007, USA
-1510 Market St, San Francisco, CA 94102, USA
-Froste Ln, Winters, TX 79567, USA
-ZERO_RESULTS
